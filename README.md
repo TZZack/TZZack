@@ -4,6 +4,8 @@
 TZZack/TZZack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/tzzack-g6-contributor.json)](https://github.com/antvis/g6)
+[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/tzzack-g6-skilled.json)](https://github.com/antvis/g6)
 
 - 🔭 I’m currently working on AntV/G6
 - 💬 Ask me about data visualization
